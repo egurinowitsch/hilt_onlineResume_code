@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1926.155px" height="364px" viewBox="0 0 1926.155 364" enable-background="new 0 0 1926.155 364" xml:space="preserve">
+<g id="academic_x5F_graph">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48.4497" y1="200.5322" x2="48.4497" y2="283.4504">
+		<stop  offset="0" style="stop-color:#21409A"/>
+		<stop  offset="0.6313" style="stop-color:#0090D6"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1_)" points="0,219.55 0,268.09 96.9,245.45 96.9,214.116 6.25,214.116 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="277.0747" y1="194.5547" x2="277.0747" y2="307.9771">
+		<stop  offset="0" style="stop-color:#27AAE1"/>
+		<stop  offset="0.6803" style="stop-color:#D7F0FC"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_2_)" points="96.9,245.45 193.3,258.672 309.25,265.192 386.1,282.58 434.05,291.273 457.25,210.855 
+		96.9,205.06 	"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1184.6211" y1="353.2422" x2="1184.6211" y2="193.4496">
+		<stop  offset="0.1112" style="stop-color:#E7F6FD"/>
+		<stop  offset="1" style="stop-color:#00AEEF"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_3_)" points="443.088,259.944 570.25,297.069 1913.793,320.674 1926.155,216.568 457.25,210.855 	"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="1350.0518" y1="173.4102" x2="1349.7717" y2="312.7506">
+		<stop  offset="0" style="stop-color:#0C4B7D"/>
+		<stop  offset="0.7421" style="stop-color:#60ACDD"/>
+		<stop  offset="1" style="stop-color:#65B4E4"/>
+	</linearGradient>
+	<path fill="url(#SVGID_4_)" d="M1253.7,210.855l23.55,63.755c0,0,47,7.245,50,7.97s93,9.418,93,9.418l26-78.244L1253.7,210.855z"/>
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="1729.6719" y1="187.3467" x2="1729.6719" y2="367.4281">
+		<stop  offset="0" style="stop-color:#0C4B7D"/>
+		<stop  offset="0.7421" style="stop-color:#60ACDD"/>
+		<stop  offset="1" style="stop-color:#65B4E4"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_5_)" points="1567.676,210.855 1596.659,265.766 1639.3,278.61 1687.25,305.607 1721.564,336.104 
+		1819.557,345.104 1860.961,355.104 1891.668,210.855 	"/>
+</g>
+<g id="work_x5F_graph">
+	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="342.4165" y1="37.5552" x2="342.2538" y2="163.8177">
+		<stop  offset="0" style="stop-color:#D267A8"/>
+		<stop  offset="1" style="stop-color:#511E62"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_6_)" points="87.25,159.78 116.25,139.09 213.25,128.265 434.05,93.489 545.25,38.428 597.25,173.907 	
+		"/>
+	<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="1018.0166" y1="-4.4971" x2="1017.8467" y2="192.1701">
+		<stop  offset="0.2624" style="stop-color:#BBD86B"/>
+		<stop  offset="0.7786" style="stop-color:#3EB549"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_7_)" points="589.742,154.346 723.25,119.571 759.25,127.311 853.25,67.408 916.05,57.265 
+		1012.45,57.265 1133.25,23.938 1176.25,8 1329.25,25.388 1398.05,79 1446,159.78 1446,173.907 597.25,173.907 	"/>
+	<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="1660.9902" y1="21.248" x2="1665.5679" y2="187.3433">
+		<stop  offset="0" style="stop-color:#D67B39"/>
+		<stop  offset="1" style="stop-color:#6F000A"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_8_)" points="1437.558,145.556 1464.75,90.954 1562.25,38.428 1657.75,107.979 1735.7,123.917 
+		1860.444,125.567 1891.668,159.78 1446,159.78 	"/>
+</g>
+<g id="border">
+	<rect y="144" fill="#BCBEC0" width="1928.5" height="90"/>
+</g>
+<g id="main_x5F_timeline">
+	<rect y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="96.4" y="151.5" fill="#58595B" width="96.9" height="75"/>
+	<rect x="192.8" y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="289.2" y="151.5" fill="#58595B" width="96.9" height="75"/>
+	<rect x="385.6" y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="482" y="151.5" fill="#58595B" width="96.9" height="75"/>
+	<rect x="578.4" y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="674.8" y="151.5" fill="#58595B" width="96.9" height="75"/>
+	<rect x="771.2" y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="867.6" y="151.5" fill="#58595B" width="96.9" height="75"/>
+	<rect x="964" y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="1060.4" y="151.5" fill="#58595B" width="96.899" height="75"/>
+	<rect x="1156.8" y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="1253.2" y="151.5" fill="#58595B" width="96.899" height="75"/>
+	<rect x="1349.6" y="151.5" fill="#414042" width="96.9" height="75"/>
+	<rect x="1446" y="151.5" fill="#58595B" width="96.9" height="75"/>
+	<rect x="1542.4" y="151.5" fill="#414042" width="96.899" height="75"/>
+	<rect x="1638.8" y="151.5" fill="#58595B" width="96.9" height="75"/>
+	<rect x="1735.2" y="151.5" fill="#414042" width="96.899" height="75"/>
+	<rect x="1831.6" y="151.5" fill="#58595B" width="96.9" height="75"/>
+</g>
+<g id="text">
+	<text transform="matrix(1 0 0 1 19.75 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘94</text>
+	<text transform="matrix(1 0 0 1 116.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘95</text>
+	<text transform="matrix(1 0 0 1 213.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘96</text>
+	<text transform="matrix(1 0 0 1 309.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘97</text>
+	<text transform="matrix(1 0 0 1 405.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘98</text>
+	<text transform="matrix(1 0 0 1 501.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘99</text>
+	<text transform="matrix(1 0 0 1 597.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘00</text>
+	<text transform="matrix(1 0 0 1 693.75 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘01</text>
+	<text transform="matrix(1 0 0 1 790.75 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘02</text>
+	<text transform="matrix(1 0 0 1 887.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘03</text>
+	<text transform="matrix(1 0 0 1 983.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘04</text>
+	<text transform="matrix(1 0 0 1 1079.75 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘05</text>
+	<text transform="matrix(1 0 0 1 1176.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘06</text>
+	<text transform="matrix(1 0 0 1 1272.75 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘07</text>
+	<text transform="matrix(1 0 0 1 1369.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘08</text>
+	<text transform="matrix(1 0 0 1 1464.75 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘09</text>
+	<text transform="matrix(1 0 0 1 1562.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘10</text>
+	<text transform="matrix(1 0 0 1 1657.75 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘11</text>
+	<text transform="matrix(1 0 0 1 1755.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘12</text>
+	<text transform="matrix(1 0 0 1 1852.25 203)" fill="#E6E7E8" font-family="'Verdana'" font-size="36">‘13</text>
+</g>
+</svg>

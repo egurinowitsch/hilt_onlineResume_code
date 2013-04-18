@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle=""
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/AHILT_pic1.jpg"
+	thumbURL="thumbs/AHILT_pic1.jpg"
+	linkURL="images/AHILT_pic1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Hilt Company Photo]]></title>
+    <caption><![CDATA[Hilt Electric Company Photo - Left to Right (Kevin Hilt, Eric Gurinowitsch, Nick Gruber, Chip Hill)]]></caption>
+  </image>
+  <image imageURL="images/CE_pic5.jpg"
+	thumbURL="thumbs/CE_pic5.jpg"
+	linkURL="images/CE_pic5.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[Kevin is terminating wires in a terminal box for World Water Works at C&E Plastic]]></caption>
+  </image>
+  <image imageURL="images/CE_pic9.jpg"
+	thumbURL="thumbs/CE_pic9.jpg"
+	linkURL="images/CE_pic9.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[The finished load side terminations in the terminal box]]></caption>
+  </image>
+  <image imageURL="images/CE_pic12.jpg"
+	thumbURL="thumbs/CE_pic12.jpg"
+	linkURL="images/CE_pic12.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[Kevin working in the terminal box]]></caption>
+  </image>
+  <image imageURL="images/CE_pic24.jpg"
+	thumbURL="thumbs/CE_pic24.jpg"
+	linkURL="images/CE_pic24.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[Conduit and devices at C&E Plastic's new 17,500 sq. ft. manufacturing facility]]></caption>
+  </image>
+  <image imageURL="images/CE_pic27.jpg"
+	thumbURL="thumbs/CE_pic27.jpg"
+	linkURL="images/CE_pic27.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[Completed high-bay lighting installation at C&E Plastic]]></caption>
+  </image>
+  <image imageURL="images/CE_pic28.jpg"
+	thumbURL="thumbs/CE_pic28.jpg"
+	linkURL="images/CE_pic28.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[Kevin wiring a 480 volt, 3 Phase, step up transformer for overhead high-bay crane]]></caption>
+  </image>
+  <image imageURL="images/CE_pic31.jpg"
+	thumbURL="thumbs/CE_pic31.jpg"
+	linkURL="images/CE_pic31.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[Completed single phase sub-panel]]></caption>
+  </image>
+  <image imageURL="images/CE_pic36.jpg"
+	thumbURL="thumbs/CE_pic36.jpg"
+	linkURL="images/CE_pic36.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[C&E Plastic, Inc.]]></title>
+    <caption><![CDATA[Completed crane rail installation]]></caption>
+  </image>
+  <image imageURL="images/RES_pic1.jpg"
+	thumbURL="thumbs/RES_pic1.jpg"
+	linkURL="images/RES_pic1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Residential Electric Service]]></title>
+    <caption><![CDATA[Employee replacing five electrical panels in a residential quad-plex]]></caption>
+  </image>
+  <image imageURL="images/RES_pic3.jpg"
+	thumbURL="thumbs/RES_pic3.jpg"
+	linkURL="images/RES_pic3.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Residential Electric Service]]></title>
+    <caption><![CDATA[Completed electrical service at quad-plex]]></caption>
+  </image>
+  <image imageURL="images/RES_pic4.jpg"
+	thumbURL="thumbs/RES_pic4.jpg"
+	linkURL="images/RES_pic4.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Residential Electric Service]]></title>
+    <caption><![CDATA[Hilt Electric installing a new electrical service meter]]></caption>
+  </image>
+  <image imageURL="images/RES_pic5.jpg"
+	thumbURL="thumbs/RES_pic5.jpg"
+	linkURL="images/RES_pic5.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Residential Electric Service]]></title>
+    <caption><![CDATA[Hilt Electric changing an exterior service entrance cable]]></caption>
+  </image>
+  <image imageURL="images/RES_pic6.jpg"
+	thumbURL="thumbs/RES_pic6.jpg"
+	linkURL="images/RES_pic6.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Residential Electric Service]]></title>
+    <caption><![CDATA[Electrical service hot tap for residential service change]]></caption>
+  </image>
+  <image imageURL="images/RES_pic7.jpg"
+	thumbURL="thumbs/RES_pic7.jpg"
+	linkURL="images/RES_pic7.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Residential Electric Service]]></title>
+    <caption><![CDATA[Completed electrical service panel change]]></caption>
+  </image>
+  <image imageURL="images/STAINLESS_pic2.jpg"
+	thumbURL="thumbs/STAINLESS_pic2.jpg"
+	linkURL="images/STAINLESS_pic2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Midland Industrial Park]]></title>
+    <caption><![CDATA[Eric is installing a weather-head for a 480 volt, 3 phase, 400 amp service]]></caption>
+  </image>
+  <image imageURL="images/STAINLESS_pic4.jpg"
+	thumbURL="thumbs/STAINLESS_pic4.jpg"
+	linkURL="images/STAINLESS_pic4.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Midland Industrial Park]]></title>
+    <caption><![CDATA[Kevin is wiring a 400 amp CT meter socket]]></caption>
+  </image>
+  <image imageURL="images/STAINLESS_pic5.jpg"
+	thumbURL="thumbs/STAINLESS_pic5.jpg"
+	linkURL="images/STAINLESS_pic5.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Midland Industrial Park]]></title>
+    <caption><![CDATA[Main 480 volt, 3 phase, 400 amp service installed in an industrial warehouse]]></caption>
+  </image>
+  <image imageURL="images/STAINLESS_pic9.jpg"
+	thumbURL="thumbs/STAINLESS_pic9.jpg"
+	linkURL="images/STAINLESS_pic9.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Midland Industrial Park]]></title>
+    <caption><![CDATA[Moments after overhead crane removal]]></caption>
+  </image>
+  <image imageURL="images/STAINLESS_pic11.jpg"
+	thumbURL="thumbs/STAINLESS_pic11.jpg"
+	linkURL="images/STAINLESS_pic11.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Midland Industrial Park]]></title>
+    <caption><![CDATA[Surveying damage after the overhead crane was removed]]></caption>
+  </image>
+  <image imageURL="images/TEC_pic1.JPG"
+	thumbURL="thumbs/TEC_pic1.JPG"
+	linkURL="images/TEC_pic1.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Technoplast International, Inc.]]></title>
+    <caption><![CDATA[Chip installing a contactor for a coolant system on extruder line number two]]></caption>
+  </image>
+  <image imageURL="images/TEC_pic3.JPG"
+	thumbURL="thumbs/TEC_pic3.JPG"
+	linkURL="images/TEC_pic3.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Technoplast International, Inc.]]></title>
+    <caption><![CDATA[Kevin terminating load side connections for extruder line number two]]></caption>
+  </image>
+  <image imageURL="images/TEC_pic4.JPG"
+	thumbURL="thumbs/TEC_pic4.JPG"
+	linkURL="images/TEC_pic4.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Technoplast International, Inc.]]></title>
+    <caption><![CDATA[Kevin strapping extruder line number two conduit ]]></caption>
+  </image>
+  <image imageURL="images/TEC_pic7.JPG"
+	thumbURL="thumbs/TEC_pic7.JPG"
+	linkURL="images/TEC_pic7.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Technoplast International, Inc.]]></title>
+    <caption><![CDATA[Completing conduit rack installation in new machine shop]]></caption>
+  </image>
+  <image imageURL="images/TEC_pic9.JPG"
+	thumbURL="thumbs/TEC_pic9.JPG"
+	linkURL="images/TEC_pic9.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Technoplast International, Inc.]]></title>
+    <caption><![CDATA[Chip fastening conduit on extruder line number one]]></caption>
+  </image>
+  <image imageURL="images/TEC_pic10.JPG"
+	thumbURL="thumbs/TEC_pic10.JPG"
+	linkURL="images/TEC_pic10.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Technoplast International, Inc.]]></title>
+    <caption><![CDATA[Kevin installing emergency stop button in control panel on extruder line number two ]]></caption>
+  </image>
+  <image imageURL="images/TEC_pic12.JPG"
+	thumbURL="thumbs/TEC_pic12.JPG"
+	linkURL="images/TEC_pic12.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Technoplast International, Inc.]]></title>
+    <caption><![CDATA[Photo with CEO of Technoplast International, Inc. - Left to Right (Chip Hill, Jason Simoni, Kevin Hilt)]]></caption>
+  </image>
+  <image imageURL="images/TIKI_pic1.JPG"
+	thumbURL="thumbs/TIKI_pic1.JPG"
+	linkURL="images/TIKI_pic1.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[TIKI HUT Tanning Salon]]></title>
+    <caption><![CDATA[Installed transformers for tanning beds and emergency lighting to meet fire code]]></caption>
+  </image>
+  <image imageURL="images/UNDERGROUND_pic2.JPG"
+	thumbURL="thumbs/UNDERGROUND_pic2.JPG"
+	linkURL="images/UNDERGROUND_pic2.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Allegheny Ludlum]]></title>
+    <caption><![CDATA[This is the sub-station that we worked in to complete the removal of high-voltage cables at the Bar Mill ]]></caption>
+  </image>
+  <image imageURL="images/UNDERGROUND_pic7.jpg"
+	thumbURL="thumbs/UNDERGROUND_pic7.jpg"
+	linkURL="images/UNDERGROUND_pic7.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Allegheny Ludlum]]></title>
+    <caption><![CDATA[The first day of underground wire removal]]></caption>
+  </image>
+  <image imageURL="images/UNDERGOUND_pic4.jpg"
+	thumbURL="thumbs/UNDERGOUND_pic4.jpg"
+	linkURL="images/UNDERGOUND_pic4.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Allegheny Ludlum]]></title>
+    <caption><![CDATA[Chip Hill loading work vans after wire removal]]></caption>
+  </image>
+  <image imageURL="images/UNDERGROUND_pic3.jpg"
+	thumbURL="thumbs/UNDERGROUND_pic3.jpg"
+	linkURL="images/UNDERGROUND_pic3.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Allegheny Ludlum]]></title>
+    <caption><![CDATA[This is only one of about thirty containers of copper wire reclaimed from this industrial site during the course of the wire removal project]]></caption>
+  </image>
+</juiceboxgallery>
